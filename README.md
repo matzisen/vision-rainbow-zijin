@@ -43,11 +43,6 @@ Vision Rainbow Zijin 是一个基于前后端分离架构的综合性Web应用�
 ```bash
 git clone <项目仓库地址>
 cd vision-rainbow-zijin
-1. 克隆项目
-```bash
- git clone <项目仓库地址>
-cd vision-rainbow-zijin
-```
 2. 前端安装与运行
    1. 克隆项目
 ```bash
